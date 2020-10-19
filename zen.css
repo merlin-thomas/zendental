@@ -1,0 +1,25 @@
+.two
+{
+    
+    position: absolute;
+    opacity:90%;
+    top: 45%;
+    left:47%;
+    transform: translate(-50%,-50%);
+    color:rgb(56, 5, 5);
+    font-size:45px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.about
+{
+    background-color: rgb(223, 219, 219);
+
+}
+#feedback
+{
+    background-color: rgb(223, 219, 219);
+}
+.footer
+{
+    background-color: rgb(223, 219, 219);
+}
